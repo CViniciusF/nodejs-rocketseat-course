@@ -13,3 +13,5 @@ Techs used:
 - Mongoose for ORM
 
 - require-dir to require whole directories
+- mongoose-paginate for pagination
+- cors for cross origin requests
